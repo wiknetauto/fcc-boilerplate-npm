@@ -1,16 +1,22 @@
 {
-	"name": "fcc-learn-npm-package-json",
-    "author": "Nathan Wikman",
-    "description": "freeCodeCamp backend course project",
-	"dependencies": {
-		"express": "^4.14.0"
-	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
-	}
+  "name": "fcc-learn-npm-package-json",
+  "author": "Nathan Wikman",
+  "description": "freeCodeCamp backend course project",
+  "keywords": [
+    "freecodecamp",
+    "backend",
+    "beginner",
+    "tutorial"
+  ],
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
+  }
 }
